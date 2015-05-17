@@ -1,0 +1,20 @@
+{
+  "generator-jhipster": {
+    "baseName": "trends",
+    "packageName": "com.ilopezluna",
+    "packageFolder": "com/ilopezluna",
+    "authenticationType": "xauth",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "29adcb65c67b2d91b81f63ba810e36651987a8cf"
+  }
+}
